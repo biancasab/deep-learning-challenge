@@ -12,13 +12,14 @@ The purpose of this analysis is to develop a neural network to predict the likel
 
 ### Compiling, Training, and Evaluating the Model 
 
-#### Model 1 
+#### Model 1 <br>
 - 3 hidden layers<br>
     - first layer = 80 units <br>
     - second layer = 50 units <br>
     - third layer = 30 units <br>
 - activation function = relu <br>
 <br>
+
 #### Model 2
 - 4 hidden layers<br>
     - first layer = 200 units <br>
@@ -27,6 +28,7 @@ The purpose of this analysis is to develop a neural network to predict the likel
     - fourth layer = 50 units <br>
 - activation function = relu <br>
 <br>
+
 #### Model 3 
 - 2 hidden layers<br>
     - first layer = 70 units <br>
